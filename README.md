@@ -6,11 +6,7 @@ Table control (ODBC cannot be used)
 
 # DEMO
 
-![]()
-
-# Features
-
-* sales point
+![5](https://github.com/ytyaru/LibreOffice.Calc.Form.Table.ODBC.20201017111532/blob/master/doc/5.png?raw=true)
 
 # Requirement
 
@@ -34,12 +30,8 @@ git clone https://github.com/ytyaru/LibreOffice.Calc.Form.Table.ODBC.20201017111
 
 ```sh
 cd LibreOffice.Calc.Form.Table.ODBC.20201017111532/src
-./run.sh
+./JapaneseNames.ods
 ```
-
-# Note
-
-* important point
 
 # Author
 
